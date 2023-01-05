@@ -1,10 +1,5 @@
-*.egg-info
-/dist
-/dist-archive
-/build
-/pypi_upload.bat
-/logs
-test.py
+dist-archive/
+pypi_upload.bat
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
