@@ -1,6 +1,6 @@
 # email-stuff
 
-A package that allows to send emails via a number of different methods from within a python application. Adopted from ioe-email-stuff v0.0.13
+A package that allows to send emails via a number of different methods from within a python application. Adopted from ioe-email-stuff v0.0.13.
 
 ## Installation
 
